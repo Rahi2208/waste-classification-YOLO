@@ -1,7 +1,6 @@
 # Waste-classification project 
 
 we use both fundamental and YOLO model with pytorch to try to classify organic waste and anorganic waste. 
-this project is inspired by Computer vision with python and tensorflow created by freecodecamp.org, but we use pytorch instead 
 
 # How this repo works 
 photos in data/  ->  split into train/val/test  ->  train a model  ->  evaluate  ->  run on a photo or webcam
@@ -126,19 +125,7 @@ Python 3.11+, PyTorch, torchvision, Ultralytics YOLO26, OpenCV, scikit-learn, ma
 
 Ultralytics is released under AGPL-3.0. That's fine for learning and personal projects, but check its license before using it in a closed-source product.
 
-4 langkah sebelumnya
-Cek versi library & dataset Kaggle
-Tulis kode project (config, dataset, train, eval, infer)
-Notebook Colab & README
-Uji end-to-end dengan dataset kecil
-Tulis 2 notebook (PyTorch & YOLO)
-Uji notebook dari atas ke bawah
-Readme
-MD
-Klasifikasi sampah notebook
-ZIP
-Klasifikasi sampah
-ZIP
-Unggahan
-1791628929152_image.png, 1791628754380_image.png
-Pencarian web
+#Acknowledgement 
+Computer vision with python and tensorflow by freecodecamp.org, but we use pytorch instead
+https://colab.research.google.com/drive/18u1KDx-9683iZNPxSDZ6dOv9319ZuEC_
+
