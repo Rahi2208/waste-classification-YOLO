@@ -1,7 +1,7 @@
 # Waste-classification project 
 
 we use both fundamental and YOLO model with pytorch to try to classify organic waste and anorganic waste. 
-this project is inspired by Computer vision with python created by freecodecamp.org 
+this project is inspired by Computer vision with python and tensorflow created by freecodecamp.org, but we use pytorch instead 
 
 # How this repo works 
 photos in data/  ->  split into train/val/test  ->  train a model  ->  evaluate  ->  run on a photo or webcam
