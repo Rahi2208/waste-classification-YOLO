@@ -2,6 +2,9 @@
 
 we use both fundamental and YOLO model with pytorch to try to classify organic waste and anorganic waste. 
 
+inspired by Deep Learning for computer vision with python by freecodecamp.org 
+https://youtu.be/IA3WxTTPXqQ?si=Mw1KPINjV4hOF9AW
+
 # How this repo works 
 photos in data/  ->  split into train/val/test  ->  train a model  ->  evaluate  ->  run on a photo or webcam
 
@@ -124,8 +127,4 @@ Tech
 Python 3.11+, PyTorch, torchvision, Ultralytics YOLO26, OpenCV, scikit-learn, matplotlib. Library versions are pinned in each notebook's install cell.
 
 Ultralytics is released under AGPL-3.0. That's fine for learning and personal projects, but check its license before using it in a closed-source product.
-
-#Acknowledgement 
-Computer vision with python and tensorflow by freecodecamp.org, but we use pytorch instead
-https://colab.research.google.com/drive/18u1KDx-9683iZNPxSDZ6dOv9319ZuEC_
 
